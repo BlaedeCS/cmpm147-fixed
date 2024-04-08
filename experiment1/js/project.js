@@ -32,7 +32,7 @@ function main() {
     material: ["concrete", "wooden", "tiled", "painted", "stone", "variegated"],
     shape: ["square", "rectangular", "octagonal", "slanted", "narrow L", "round"],
     size: ["Wide", "Tall ceiling", "Very large in size"],
-    furniture: ["$color table with four chairs", "dresser containing $item", "cabinet containing $item", "podium, with %item on it", "chair"],
+    furniture: ["$color table with four chairs", "dresser containing $item", "cabinet containing $item", "podium, with $item on it", "chair"],
     item: ["a book", "two books", "a fork", "someone's skull", "your keys somehow"],
     
   };
